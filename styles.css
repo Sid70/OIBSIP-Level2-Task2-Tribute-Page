@@ -76,6 +76,15 @@
     font-size: 3.1vh;
     letter-spacing: 1px;
 }
+.name
+{
+    font-size: 2.9vh;
+    letter-spacing: 1px;
+    width: 70%;
+    text-align: center;
+    margin: 5px auto;
+}
+
 
 .link
 {
