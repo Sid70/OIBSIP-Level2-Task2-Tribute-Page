@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main {
+    width: 96%;
+    background-color: rgb(245, 240, 240);
+    margin: 30px auto;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#title {
+    width: 100%;
+    padding: 50px 0px;
+}
+
+#title p {
+    font-size: larger;
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#title h1 {
+    margin-top: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#img-div {
+    width: 96%;
+    background-color: white;
+    margin: auto;
+    padding: 30px 0px;
+    text-align: center;
+}
+
+#image {
+    margin: auto;
+    width: 50%;
+    margin-top: 20px;
+    display: block;
+    max-width: 100%;
+}
+
+#img-caption {
+    margin-top: 20px;
+    font-size: larger;
+}
+
+#tribute-info {
+    margin: 80px 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.timeline {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+.timeline ul {
+    margin: 40px 30px;
+    width: 100%;
+    text-align: left;
+}
+
+.timeline ul li {
+    padding: 10px;
+    font-size: 18px;
+}
+
+.quote
+{
+    font-size: 3.1vh;
+    letter-spacing: 1px;
+}
+
+.link
+{
+    margin: 70px 0px;
+    font-size: 3vh;
+    font-weight: bolder;
+}
+@media (max-width:320px) {
+    .timeline ul {
+        margin: 60px 30px;
+        width: 100%;
+        text-align: left;
+    }
+
+    .timeline ul li {
+        font-size: 3.8vh;
+    }
+}
