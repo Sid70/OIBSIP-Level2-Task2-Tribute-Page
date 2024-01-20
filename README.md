@@ -1,7 +1,7 @@
-# OIBSIP-Level2-Task2-Tribute-Page
+# OIBSIP-Level2-Task2-Tribute-Page 
 
-With a basic understanding of HTML and CSS, you can easily create a page for someone you admire. Write about what you adore in the person, add images, give an appealing layout, use paragraphs appropriately. You can also play around with different font styles and background colors.
+With a basic understanding of HTML and CSS, I have created a page for someone I admire. I wrote about that person, added his images, gave an appealing layout and used paragraphs appropriately. I also played around with different font styles and background colors. 
 
-This is a tribute page of DR. APJ Abdul Kalam Sir.
+This is a tribute page to Dr. APJ Abdul Kalam, sir.
 
-Visit this page: https://sid70.github.io/OIBSIP-Level2-Task2-Tribute-Page/
+Visit this page: https://sid70.github.io/OIBSIP-Level2-Task2-Tribute-Page/ 
