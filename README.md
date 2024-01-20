@@ -4,4 +4,4 @@ With a basic understanding of HTML and CSS, I have created a page for someone I 
 
 This is a tribute page to Dr. APJ Abdul Kalam, sir.
 
-Visit this page: https://sid70.github.io/OIBSIP-Level2-Task2-Tribute-Page/ 
+Visit this page:  https://sid70.github.io/OIBSIP-Level2-Task2-Tribute-Page/
